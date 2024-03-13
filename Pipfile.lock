@@ -18,26 +18,28 @@
     "default": {
         "aiosmtpd": {
             "hashes": [
-                "sha256:314f70b74cb8474882cef396b186fbfad8660c7b52be5c1937f3c31df14232a4",
-                "sha256:aa891d010d2097274189078c6ce2a59a167f3fb2e974e028b572a61e92e1549c"
+                "sha256:78d7b14f859ad0e6de252b47f9cf1ca6f1c82a8b0f10a9e39bec7e915a6aa5fe",
+                "sha256:a196922f1903e54c4d37c53415b7613056d39e2b1e8249f324b9ee7a439be0f1"
             ],
             "index": "pypi",
-            "version": "==1.4.2"
+            "markers": "python_version >= '3.8'",
+            "version": "==1.4.5"
         },
         "atpublic": {
             "hashes": [
-                "sha256:d6b9167fc3e09a2de2d2adcfc9a1b48d84eab70753c97de3800362e1703e3367"
+                "sha256:0f40433219e124edf115c6c363808ca6f0e1cfa7d160d86b2fb94793086d1294",
+                "sha256:80057c55641253b86dcb68b524f82328172371b6547d4c7462a9127fbfbbabfc"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2.3"
+            "markers": "python_version >= '3.8'",
+            "version": "==4.0"
         },
         "attrs": {
             "hashes": [
-                "sha256:149e90d6d8ac20db7a955ad60cf0e6881a3f20d37096140088356da6c716b0b1",
-                "sha256:ef6aaac3ca6cd92904cdd0d83f629a15f18053ec84e6432106f7a4d04ae4f5fb"
+                "sha256:935dc3b529c262f6cf76e50877d35a4bd3c1de194fd41f47a2b7ae8f19971f30",
+                "sha256:99b87a485a5820b23b879f04c2305b44b951b502fd64be915879d77a7e8fc6f1"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
-            "version": "==21.2.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==23.2.0"
         },
         "mail-parser": {
             "hashes": [
